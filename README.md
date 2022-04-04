@@ -12,4 +12,6 @@ Since I am using WSL2 on Windows 10, by default all Oracle SQL history(queries) 
 * Traverse through all `xml` files from input directory and extract the text from `SQL` tag.
 * Add that text to the `sql` file.
 
-**P.S.** Pressing F8 will also give us similar SQL history
+### P.S
+
+Pressing F8 in SQLDeveloper will also give us similar SQL history
